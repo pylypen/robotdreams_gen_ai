@@ -172,3 +172,17 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# project
+homework_6/finetuned_gpt2
+homework_8/data
+homework_8/images
+homework_8/images_b64_ep2k
+homework_8/MNIST
+homework_8/models
+homework_8/progan_models
+homework_8/progan_samples
+homework_8/progan_samples_images
+homework_8/progan_samples_models
+homework_17/data
+homework_17/sample_epoch_*.png
